@@ -1,6 +1,6 @@
 # NoHullsBarr
 
-This is a college game project build. It is a 2D underwater RPG game team project written in JavaScript. I programmed the enemies AI, player movement and control, in game physical, tile set system, fish AI, and some of terrain generating.
+This is a college game project build. It is a 2D underwater RPG game team project written in JavaScript.
 
 ## How To Play
 
