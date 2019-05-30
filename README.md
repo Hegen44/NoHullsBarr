@@ -23,3 +23,4 @@ Enjoy!
 * **Geoff Smith**
 * **Hiu-Chun Lo**
 * **Noah Davidson**
+* **Frank Friesen**
