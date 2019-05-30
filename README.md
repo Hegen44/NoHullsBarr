@@ -19,8 +19,8 @@ Enjoy!
 
 ## Authors
 
-* **Hiu-CHun Lo**
 * **Geoff Smith**
+* **Moises Martinez**
 * **Hiu-Chun Lo**
 * **Noah Davidson**
 * **Frank Friesen**
