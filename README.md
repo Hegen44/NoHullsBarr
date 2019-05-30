@@ -1,7 +1,7 @@
-# cmpn120
+# NoHullsBarr
 Written by:
-Moises Martinez
-Geoff Smith
-Hiu-Chun Lo
+Moises Martinez,
+Geoff Smith,
+Hiu-Chun Lo,
 Noah Davidson
 
